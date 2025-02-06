@@ -1,4 +1,4 @@
-### **📌 MERN Stack Template – README**  
+### **📌 MERN Stack Template**  
 
 This is a **MERN (MongoDB, Express, React, Node.js) Template** with pre-configured dependencies for both **frontend and backend**. It includes **Tailwind CSS, Chakra UI, Axios, Nodemailer, and Bcrypt**, making it a perfect boilerplate for quickly setting up new projects.
 
