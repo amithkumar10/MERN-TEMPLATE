@@ -101,4 +101,4 @@ The backend will start on **http://localhost:5000**
 ---
 
 ## **📜 License**
-This project is **open-source**. Feel free to use it for your projects.
+This project is **open-source**. Feel free to use it to build projects.
