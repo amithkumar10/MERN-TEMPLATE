@@ -2,6 +2,8 @@ import express from "express";
 import cors from "cors";
 import cookieParser from "cookie-parser";
 import dotenv from "dotenv";
+import router from "./route.js";
+import connectDB from "./db/mongodb.js";
 
 // Initialize dotenv to load environment variables
 dotenv.config({ path: "../.env" });
